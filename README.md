@@ -1,7 +1,15 @@
 - 👋 Hi, I’m @cylue0407
+  1. IT department manager
+  2. ASP.NET Programmer
+  3. Try to apply for penetration testing occupation in 2024
+
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning Python, GO lang.
-- 💞️ I’m looking to collaborate on ...
+
+- 🌱 I’m currently learning Penetration Testing
+  1. Hack The Box labs
+  2. 2023.Dec: EC-Council CPENT Certification
+  3. 2024.Match will start to learn OSCP
+  
 - 📫 How to reach me ...
 
 <!---
