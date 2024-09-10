@@ -1,16 +1,16 @@
-- 👋 Hi, I’m @cylue0407
-  1. IT department manager
+- 🐙♌🎲☄️ Hi, I’m Mike424
+  <!--1. IT department manager
   2. ASP.NET Programmer
-  3. Try to apply for penetration testing occupation in 2024
+  3. Try to apply for penetration testing occupation in 2024 -->
 
-- 👀 I’m interested in ...
-
-- 🌱 I’m currently learning Penetration Testing
-  1. Hack The Box labs
-  2. 2023.Dec: EC-Council CPENT Certification
-  3. 2024.Match will start to learn OSCP
+- 🌱 I’m currently learning
+  1. Web3: De-Fi & Solidity; from 2024.06~2024.10 
+  2. DevOps: Learning DevOps by implement projects that is for beginner.
+  3. OSCP: 2024.03~08; Exam failed 1 time in 2024.07
   
-- 📫 How to reach me ...
+- 📫 Contact me if you want:
+  1. Discord: @fakeit24
+  2. Warpcast: @fakeit424
 
 <!---
 cylue0407/cylue0407 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
